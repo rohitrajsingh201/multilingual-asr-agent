@@ -1,0 +1,28 @@
+{
+  "_comment": "Sample reference transcripts for batch benchmarking demo.",
+  "_note": "Replace filenames with your actual audio file names.",
+
+  "sample_hindi_01.wav": "नमस्ते मेरा नाम रोहित है और मैं डेटा इंजीनियर हूं",
+  "sample_hindi_02.wav": "आज मौसम बहुत अच्छा है कृपया खिड़की खोलें",
+
+  "sample_bengali_01.wav": "নমস্কার আমার নাম রোহিত আমি একজন ডেটা ইঞ্জিনিয়ার",
+  "sample_bengali_02.wav": "আজকের আবহাওয়া অনেক সুন্দর",
+
+  "sample_marathi_01.wav": "नमस्कार माझे नाव रोहित आहे मी डेटा अभियंता आहे",
+  "sample_marathi_02.wav": "आज हवामान खूप छान आहे",
+
+  "sample_gujarati_01.wav": "નમસ્તે મારું નામ રોહિત છે અને હું ડેટા એન્જિનિયર છું",
+  "sample_gujarati_02.wav": "આજે હવામાન ખૂબ સારું છે",
+
+  "sample_tamil_01.wav": "வணக்கம் என் பெயர் ரோஹித் நான் தரவு பொறியாளர்",
+  "sample_tamil_02.wav": "இன்று வானிலை மிகவும் அழகாக உள்ளது",
+
+  "sample_telugu_01.wav": "నమస్కారం నా పేరు రోహిత్ నేను డేటా ఇంజినీర్",
+  "sample_telugu_02.wav": "ఈరోజు వాతావరణం చాలా బాగుంది",
+
+  "sample_kannada_01.wav": "ನಮಸ್ಕಾರ ನನ್ನ ಹೆಸರು ರೋಹಿತ್ ನಾನು ಡೇಟಾ ಇಂಜಿನಿಯರ್",
+  "sample_kannada_02.wav": "ಇಂದು ಹವಾಮಾನ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ",
+
+  "sample_english_01.wav": "Hello my name is Rohit and I am a data engineer specializing in speech AI",
+  "sample_english_02.wav": "The word error rate has been reduced from thirty percent to five percent"
+}

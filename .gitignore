@@ -1,0 +1,12 @@
+outputs/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+.DS_Store
+*.wav
+*.mp3
+*.m4a
+*.flac
