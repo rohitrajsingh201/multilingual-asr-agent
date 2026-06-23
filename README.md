@@ -197,7 +197,7 @@ multilingual-asr-agent/
 
 **Rohit Raj Singh** — Data Engineer & Team Lead  
 Specializing in ASR/TTS/NLP systems and multilingual Voice AI pipelines.  
-📧 rohitrajsingh200@gmail.com | [LinkedIn](https://linkedin.com/in/rohit-raj-singh)
+📧 rohitrajsingh200@gmail.com | [LinkedIn](https://www.linkedin.com/in/rohit--raj--singh---/)
 
 ---
 
