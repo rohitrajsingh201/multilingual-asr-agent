@@ -1,0 +1,15 @@
+# Core ASR
+openai-whisper>=20231117
+
+# Multi-agent framework
+pyautogen>=0.2.0
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# OpenAI (for AutoGen LLM calls — optional but recommended)
+openai>=1.0.0
+
+# Audio utilities
+ffmpeg-python>=0.2.0
